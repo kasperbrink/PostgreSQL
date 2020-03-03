@@ -1,4 +1,4 @@
 image:
   file: .gitpod.Dockerfile
 tasks:
- - command: pg_start.sh
+ - command: pg_start
