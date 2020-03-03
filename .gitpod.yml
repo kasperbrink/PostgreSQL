@@ -1,1 +1,2 @@
-
+tasks:
+-command: pg_start.sh
